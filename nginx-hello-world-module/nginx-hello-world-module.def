@@ -1,0 +1,4 @@
+EXPORTS
+   ngx_modules      DATA
+   ngx_module_names DATA
+   ngx_module_order DATA

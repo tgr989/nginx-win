@@ -1,0 +1,3 @@
+2021/03/16 23:34:42 [emerg] 6220#22640: LoadLibrary() "C:\Users\hxzh\Desktop\nginx\nginx/nginx-hello-world-module.dll" failed (The specified module could not be found) in C:\Users\hxzh\Desktop\nginx\nginx/conf/nginx.conf:14
+2021/03/16 23:34:51 [emerg] 2648#16476: LoadLibrary() "C:\Users\hxzh\Desktop\nginx\nginx/nginx-hello-world-module.dll" failed (The specified module could not be found) in C:\Users\hxzh\Desktop\nginx\nginx/conf/nginx.conf:14
+2021/03/16 23:58:36 [emerg] 13052#17924: LoadLibrary() "C:\Users\hxzh\Desktop\nginx\nginx/nginx-hello-world-module.dll" failed (The specified module could not be found) in C:\Users\hxzh\Desktop\nginx\nginx/conf/nginx.conf:14
